@@ -1,0 +1,26 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "niveau1": {
+        "id": "niveau1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMzAwMTEwMDAwMDIwMTAyMDEwMjAxMDIwMTAyMDEwMjAxMDIwMTAyMDEwMjAxMDAwMTAwMDAwMDAxMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAzMDIwMDAyMDAwMjAxMDIwMDAyMDAwMjAwMDIwMDAyMDEwMjAxMDIwMTAwMDEwMDAxMDAwMDAwMDEwMDAxMDAwMTAwMDEwMDAwMDAwMTAwMDAwMjAwMDIwMDAyMDEwMjAwMDIwMDAyMDAwMDAwMDIwMDAyMDAwMDAxMDAwMTAwMDEwMDAwMDAwMTAwMDEwMjAxMDIwMTAwMDEwMDAwMDIwMDAyMDAwMjAwMDIwMTAyMDAwMDAwMDAwMDAyMDAwMjAwMDAwMTAwMDEwMDAxMDAwMTAwMDAwMDAxMDIwMTAyMDEwMDAxMDAwMDAyMDAwMjAwMDIwMDAyMDEwMjAxMDIwMDAwMDAwMDAwMDIwMDAwMDEwMDAxMDAwMTAwMDAwMDAxMDUwMTAwMDEwMjAxMDIwMTAwMDAwMjAwMDIwMDAyMDEwMjAwMDIwMDAyMDAwMDAwMDAwMDAyMDAwMDAxMDAwMDAwMDAwMDAxMDAwMTAwMDEwMjAxMDIwMTAwMDEwMDAwMDIwMTAyMDEwMjAwMDIwMDAyMDAwMDAwMDAwMDAyMDAwMjAwMDAwMTAwMDAwMDAxMDAwMTAwMDEwMDAxMDIwMTAwMDEwMDAxMDAwMTAyMDAwMjAwMDIwMDAyMDAwMjAxMDIwMDAwMDAwMjAwMDIwMDAyMDQwMDAxMDAwMDAwMDEwMDAwMDAwMDAwMDEwMDAwMDAwMTAwMDEwMjAxMDIwMTAyMDEwMjAxMDIwMTAyMDEwMjAxMDIwMTAyMDAyMDIyMjIyMjIyMjIyMjIyMjIwMjAyMDAwMjAwMDIwMDAwMDAyMDIwMjAyMjIwMjAyMDIwMjIyMjAyMDIwMjAwMDIwMjAyMDIwMDAyMjAyMDIwMjIyMDIwMDAyMDIwMDAwMjAyMDIwMDAyMjIyMjAyMDIyMDIwMjAyMDIyMDAwMDIwMjAwMDAyMDIwMjAyMDAyMjIyMDIwMjIwMjAyMDIwMjIyMjAwMDAyMDAwMDIwMjAyMDAwMjAyMjIyMjAyMjAyMDIwMjIyMDIwMDAwMDIwMDAwMjAwMDAwMjAyMjIyMjAyMDIyMDIyMjIyMDIwMDAwMDIwMjAwMDAyMDAwMjAyMDIyMjAyMDIwMjIyMjAyMDIwMjAyMjAwMjAyMDIwMDAwMjAwMDIwMDAwMDIwMDAyMjIyMjIyMjIyMjIyMjIyMjIyMDA=",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.greenOuterNorth0",
+            "sprites.dungeon.greenOuterNorth1",
+            "sprites.dungeon.collectibleRedCrystal",
+            "sprites.dungeon.collectibleBlueCrystal",
+            "sprites.dungeon.collectibleInsignia"
+        ],
+        "displayName": "niveau1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
